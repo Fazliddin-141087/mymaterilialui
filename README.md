@@ -4,6 +4,8 @@
 
 ![AppVeyor](https://img.shields.io/appveyor/build/Fazliddin-141087/mymaterialui)
 
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Fazliddin-141087/mymaterialui/dev/uz.mobiler.mymaterialdesignui)
+
 ## Add your gradle
 
 ```bash

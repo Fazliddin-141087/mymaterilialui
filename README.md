@@ -1,7 +1,7 @@
 # Material Design UI 
 
 ## My Material Design UI 
-.. image:: https://img.shields.io/github/last-commit/Fazliddin-141087/GitArt   :alt: GitHub last commit
+![GitHub last commit](https://img.shields.io/github/last-commit/Fazliddin-141087/GitArt)
 
 ## Add your gradle
 

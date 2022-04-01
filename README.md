@@ -1,7 +1,8 @@
 # Material Design UI 
 
 ## My Material Design UI 
-![GitHub last commit] (https://img.shields.io/appveyor/build/Fazliddin-141087/DesignUI)
+
+![AppVeyor](https://img.shields.io/appveyor/build/Fazliddin-141087/mymaterialui)
 
 ## Add your gradle
 

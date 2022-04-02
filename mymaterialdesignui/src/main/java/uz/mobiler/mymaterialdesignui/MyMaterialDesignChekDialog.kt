@@ -4,7 +4,7 @@ import android.content.Context
 import android.widget.Toast
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
 
-object ConfirmDialog {
+object MyMaterialDesignChekDialog {
     fun show(
         context: Context,
         title: String,

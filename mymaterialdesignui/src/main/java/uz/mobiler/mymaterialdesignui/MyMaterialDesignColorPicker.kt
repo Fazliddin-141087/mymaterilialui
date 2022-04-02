@@ -6,7 +6,7 @@ import android.widget.Toast
 import com.afollestad.materialdialogs.MaterialDialog
 import com.afollestad.materialdialogs.color.colorChooser
 
-object ColorPicker {
+object MyMaterialDesignColorPicker {
     @SuppressLint("CheckResult")
     fun show(context: Context, title: String, colorList:IntArray) {
         MaterialDialog(context).show {

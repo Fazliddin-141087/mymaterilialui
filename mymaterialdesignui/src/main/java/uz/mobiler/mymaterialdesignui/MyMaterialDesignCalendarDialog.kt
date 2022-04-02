@@ -3,7 +3,7 @@ package uz.mobiler.mymaterialdesignui
 import androidx.fragment.app.FragmentManager
 import com.google.android.material.datepicker.MaterialDatePicker
 
-object CalendarDialog {
+object MyMaterialDesignCalendarDialog {
     fun show(title: String,fragmentManager: FragmentManager) {
         var datapicker= MaterialDatePicker.Builder.datePicker()
             .setTitleText(title)

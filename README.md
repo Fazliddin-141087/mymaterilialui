@@ -27,7 +27,7 @@
     MyMaterialDesignAlert.show(this,"title","message","Ok","Cancel")
  ```
     
-    ## Material Design ColorPicker
+  ## Material Design ColorPicker
     
  ```bash
       MyMaterialDesignColorPicker.show(this,"title",colorList=IntArray)

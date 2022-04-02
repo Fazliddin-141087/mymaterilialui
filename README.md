@@ -9,7 +9,7 @@
 ## Add your gradle
 
 ```bash
-    implementation 'com.github.Fazliddin-141087:mymaterilialui:1.0.1'
+    implementation 'com.github.Fazliddin-141087:mymaterilialui:1.1.1'
  ```
 ## Add maven
 

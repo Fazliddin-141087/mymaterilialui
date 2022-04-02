@@ -16,5 +16,9 @@
 ```bash
    maven { url 'https://jitpack.io' } 
 ```
+## Material Design Calendar Dialogs 
 
-
+```bash
+   MyMaterialDesignCalendarDialog.show("title",fragmentMagaer) 
+   ```
+ 

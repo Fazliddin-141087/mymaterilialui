@@ -32,3 +32,16 @@
  ```bash
       MyMaterialDesignColorPicker.show(this,"title",colorList=IntArray)
   ```
+
+## Materila Design BottomSheet Info Wifi
+
+```bash
+    MyBottomSheetDialogInfoWifi.show(this)
+```
+
+## Material Design Chek Dialog
+
+```bash
+    MyMaterialDesignChekDialog.show(this,"title","Ok",stringList,chekedItem:Int)
+```
+
